@@ -39,3 +39,7 @@ To analyze and visualize mobile sales data to identify trends, top-performing pr
 **Conclusion**
 This dashboard empowers stakeholders with data-driven decisions by showcasing product performance, customer behavior, and market trends in a visually interactive format.
 
+
+Linkedin Post Link : https://www.linkedin.com/feed/update/urn:li:activity:7344676661348454401/
+
+
